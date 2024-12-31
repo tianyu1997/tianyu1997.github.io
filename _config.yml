@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "TIAN, Yu"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hongkong, China"
   employer         : "Chinese University of Hong Kong"
