@@ -21,3 +21,9 @@ Publication
 [2]Chen, R., Tian, Y. et al. "A Mixed-Reality-Based Unknown Space Navigation Method of a Flexible Manipulator." Sensors 23.8 (2023): 3840.
 
 [3] Wang, Z., Tian, Y., Sun, Y., & Liang, B. (2020). Finite-time output-feedback control for teleoperation systems subject to mismatched term and state constraints. Journal of the Franklin Institute, 357(16), 11421-11447.
+
+[4]Tian, Y. et al. "Learning to Perform Low-Contact Autonomous Nasotracheal Tube Intubation by Recurrent Action-Confidence Chunking with Transformer." Submitted to ICRA2025.
+
+[5]Tian, Y. Ren, H. "Extensibility Visibility Line Algorithm: An Efficient Approximate Shortest Path Planning Algorithm." Submitted to ICRA2025.
+
+
