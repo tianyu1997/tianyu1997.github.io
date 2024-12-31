@@ -11,6 +11,9 @@ I am currently a third-year PhD student in the Department of Electronic Engineer
 
 I obtained my Bachelor's and Master's degrees from the Department of Automation at Tsinghua University under the guidance of Professor Wang Xueqian in 2019 and 2022, respectively.
 
+
+
+
 Publication
 ======
 [1]Tian, Y., Zhu, X., Meng, D., Wang, X., & Liang, B. (2021). An Overall Configuration Planning Method of Continuum Hyper-Redundant Manipulators Based on Improved Artificial Potential Field Method. IEEE Robotics and Automation Letters, 6(3), 4867-4874.
